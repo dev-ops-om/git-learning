@@ -5,4 +5,6 @@ console.log("set up in p4");
 console.log("commiting after cloning");
 console.log("Login feature work");
 console.log("Login feature completed");
-
+console.log("Working on payment feature");
+console.log("Still not finished");
+console.log("Payment feature added");
